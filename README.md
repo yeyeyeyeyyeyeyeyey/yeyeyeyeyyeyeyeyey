@@ -2,4 +2,4 @@
 - 👀 I’m interested in team coding 
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on game coding, as I am in school 
-- 📫 How to reach me my email, (normal way to chat in github)
+- 📫 Don't reach out to me
